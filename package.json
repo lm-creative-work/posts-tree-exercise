@@ -1,0 +1,31 @@
+{
+  "name": "nitro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest --dom",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.18",
+    "moment": "^2.29.4",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/test-utils": "^2.4.1",
+    "autoprefixer": "^10.4.16",
+    "happy-dom": "^12.10.3",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5",
+    "vitest": "^0.34.6"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:lm-creative-work/nitro-posts-tree.git",
+  "author": "LM Creative Work",
+  "license": "MIT"
+}
