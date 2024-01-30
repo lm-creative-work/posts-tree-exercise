@@ -1,9 +1,5 @@
-# Nitro Exercise for Frontend Engineer
+# Exercise for Frontend Engineer
 > by [Mario Westfahl](https://www.linkedin.com/in/mario-westfahl-52883723b/)
-
-
-Thank you for the opportunity to prove my skills and I am looking forward to talk more about the project in the interview. 
-
 
 The project uses Vue 3 + Vite. Check out the [vite docs](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) for more info.
 
